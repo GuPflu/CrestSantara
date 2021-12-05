@@ -54,7 +54,7 @@
                 {
                  "name":"exitURL",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/gupflu.github.io\/CrestSantara\/map.json#entry-from-map_02"
+                 "value":"map.json#entry-from-map_02"
                 }],
          "type":"tilelayer",
          "visible":true,
